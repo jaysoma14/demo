@@ -2,4 +2,4 @@
 This is simple readme file
 
 ## Read.me
-confict
+updated
