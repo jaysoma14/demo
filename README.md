@@ -2,4 +2,4 @@
 This is simple readme file
 
 ## Read.me
-swtich to other branch
+may confict the file
