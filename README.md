@@ -6,3 +6,4 @@ updated
 new content
 hello
 content for rebase
+new 
