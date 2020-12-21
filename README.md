@@ -7,3 +7,4 @@ new content
 hello
 content for rebase
 new 
+hello
